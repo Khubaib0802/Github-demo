@@ -1,4 +1,4 @@
 # Github-demo
 This is my first github repository.
 <br>
-Author-Khubaib Ahmad Khan.
+Author-Khubaib Ahmad (github).
